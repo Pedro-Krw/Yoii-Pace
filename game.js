@@ -50,4 +50,4 @@ while (tanya){
 tanya = confirm ('Ko Mau Main Lagi Kah Tra 😝?')
 }
 
-alert (' Yoi Mantap Ko Su Main Game Ini. Thanks😎🦾')
+alert (' Yoi Mantap Ko Su Main Game Ini. Thanks🦾😎')
